@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Your Site Title</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+  	<link href="{{ url_for('static', filename="styles.css") }}" rel="stylesheet">
+  	<style> body { padding-top: 70px; } </style>
+</head>
+<body>
+	<div class=page>
+      <h1>Welcome!</a></h1>
+      {% block content %}
+      {% endblock content %}
+    </div>
+    <footer class="footer">
+    <hr>
+    <p>&copy; FlaskTaskr</p>
+</body>
+</html>
