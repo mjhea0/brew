@@ -60,7 +60,7 @@ What's next?
 1. Update metatags on the Markdown files.
 1. Finish developing your site.
 1. Create your build again: `python app.py build`
-1. Upload, and enjoy.
+1. Upload - and enjoy.
 
 Learn More
 ---------
