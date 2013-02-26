@@ -28,7 +28,7 @@ Install
 3. Clone this repo: 
 
             $ git clone git://github.com/mjhea0/brew.git
-            $ cd flask-brew
+            $ cd brew
 
 3. Create and activate a virtualenv:
     
