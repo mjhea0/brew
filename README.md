@@ -27,8 +27,8 @@ Install
 1. Install [Git](http://git-scm.com/downloads), [Python](http://install.python-guide.org/), [virtualenv](http://install.python-guide.org/), and [pip](http://install.python-guide.org/) - if you don't already have them, of course
 3. Clone this repo: 
 
-            $ git clone git://github.com/mjhea0/flask-boilerplate.git
-            $ cd flask-boilerplate
+            $ git clone git://github.com/mjhea0/brew.git
+            $ cd flask-brew
 
 3. Create and activate a virtualenv:
     
@@ -48,7 +48,7 @@ Install
 
 5. Create your static site:
 
-    python app.py build
+            $ python app.py build
 
 6. Upload the contents of the build folder to your web host of choice. That's it!
 
